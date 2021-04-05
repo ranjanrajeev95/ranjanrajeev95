@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Rajeev_Ranjan
 - 👀 I’m interested in learning new innovative technologies and ideas to make change for the betterment of our community.
 - 🌱 I’m still upagading my skills.
--  My key skills i know are:
+-  My key skills  are:
   #Python #JavaScript #ReactJs #Django #Flask #Redux #Git
 
 <!---
